@@ -1,2 +1,5 @@
 pandas 
 jupyter
+scikit-learn
+numpy
+nltk
