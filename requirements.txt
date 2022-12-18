@@ -8,4 +8,8 @@ transformers==4.22.2
 sentencepiece==0.1.97
 datasets==2.5.2
 tokenizers==0.12.1
-
+keras
+torch
+tensorflow
+spacy
+matplotlib
