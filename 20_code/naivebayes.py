@@ -85,4 +85,7 @@ def build_plots(dataset):
 '''
 To build plots, uncomment each build_plots line one at a time. The .png for the model's plot is stored in the 
 ../30_for_plots folder.
+
+
+source for plotting code: https://stackoverflow.com/questions/34564830/roc-curve-with-sklearn-python
 '''
