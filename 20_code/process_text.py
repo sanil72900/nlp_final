@@ -45,4 +45,5 @@ def clean_text(data):
 
 clean_data = clean_text(data)
 
+
 clean_data.to_csv("../10_cleaned_data/processed_text.csv")
