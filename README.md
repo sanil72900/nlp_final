@@ -1,5 +1,7 @@
 # Comparison of Generative and Discriminative Language Models for Sentiment Analysis of Product Reviews
 
+Generic Sentiment | Multidomain Sentiment Dataset: https://www.kaggle.com/datasets/akgeni/generic-sentiment-multidomain-sentiment-dataset 
+
 ## Setup instructions
 1. Install all packages specified in requirements.txt
 
