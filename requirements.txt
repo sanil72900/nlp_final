@@ -3,10 +3,10 @@ jupyter
 scikit-learn
 numpy
 nltk
-transformers==4.22.2
-sentencepiece==0.1.97
-datasets==2.5.2
-tokenizers==0.12.1
+transformers
+sentencepiece
+datasets
+tokenizers
 keras
 torch
 tensorflow
@@ -15,3 +15,4 @@ matplotlib
 torch
 torchvision
 torchaudio
+warnings
