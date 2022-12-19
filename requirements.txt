@@ -8,14 +8,11 @@ transformers==4.22.2
 sentencepiece==0.1.97
 datasets==2.5.2
 tokenizers==0.12.1
-<<<<<<< HEAD
 keras
 torch
 tensorflow
 spacy
 matplotlib
-=======
 torch
 torchvision
 torchaudio
->>>>>>> fd1bc3dfe52196dc9c6ba5fc0e285c48c73dbc5d
