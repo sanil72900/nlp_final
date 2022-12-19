@@ -77,10 +77,12 @@ def build_plots(dataset):
     plt.xlabel('False Positive Rate')
     plt.legend(loc=4)
     plt.title('ROC with ___ Data')
-    return plt.show()
+    plt.savefig('/workspaces/nlp_final/30_for_plots/plot.png')
+    return 1
 
-build_plots(pd.read_csv("/workspaces/nlp_final/10_cleaned_data/processed_text.csv"))
-
+#build_plots(pd.read_csv("/workspaces/nlp_final/00_source_data/synthetic_data_50k.csv"))
+#build_plots(pd.read_csv("/workspaces/nlp_final/10_cleaned_data/processed_text.csv"))
 '''
-To build plots, 
+To build plots, uncomment each build_plots line one at a time. The .png for the model's plot is stored in the 
+../30_for_plots folder.
 '''
