@@ -10,3 +10,5 @@ Generic Sentiment | Multidomain Sentiment Dataset: https://www.kaggle.com/datase
 3. To build Naive Bayes (generative) model, open naivebayes.py and run script
 
 4. To build bidirectional LSTM (discriminative) model, open bi-rnn.py and run script
+
+5. To recreate synthetic data, open synthetic_data.py and run script
